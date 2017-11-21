@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511077353097.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1259688910",
+    "id" : "F4B7D89F",
+    "lastKnownWriteTime" : 1511083354,
+    "last_content_update" : 1511083354781,
+    "path" : "~/RTutorial/11_Map_Visualization.R",
+    "project_path" : "11_Map_Visualization.R",
+    "properties" : {
+        "cursorPosition" : "89,31",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

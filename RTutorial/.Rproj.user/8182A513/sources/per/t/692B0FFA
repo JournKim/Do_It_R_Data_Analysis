@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511085316325.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2133055563",
+    "id" : "692B0FFA",
+    "lastKnownWriteTime" : 1511090173,
+    "last_content_update" : 1511090173853,
+    "path" : "~/RTutorial/13_Statistical_Hypothesis.R",
+    "project_path" : "13_Statistical_Hypothesis.R",
+    "properties" : {
+        "cursorPosition" : "120,46",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511083378205.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4260817789",
+    "id" : "7EDE7B6A",
+    "lastKnownWriteTime" : 1511085109,
+    "last_content_update" : 1511085109867,
+    "path" : "~/RTutorial/12_Interactive_Graph.R",
+    "project_path" : "12_Interactive_Graph.R",
+    "properties" : {
+        "cursorPosition" : "52,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511093800260.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1023584170",
+    "id" : "FB43AD9D",
+    "lastKnownWriteTime" : 1511096357,
+    "last_content_update" : 1511096357144,
+    "path" : "~/RTutorial/15_inside_R.R",
+    "project_path" : "15_inside_R.R",
+    "properties" : {
+        "cursorPosition" : "89,9",
+        "scrollLine" : "73",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

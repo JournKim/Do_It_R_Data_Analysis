@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511071125338.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4222346232",
+    "id" : "39E9DFA",
+    "lastKnownWriteTime" : 1511077342,
+    "last_content_update" : 1511077342173,
+    "path" : "~/RTutorial/10_Text_Mining.R",
+    "project_path" : "10_Text_Mining.R",
+    "properties" : {
+        "cursorPosition" : "150,24",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

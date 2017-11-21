@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511090475534.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2953541489",
+    "id" : "83B7A542",
+    "lastKnownWriteTime" : 1511090963,
+    "last_content_update" : 1511090963187,
+    "path" : "~/RTutorial/14_Markdown.R",
+    "project_path" : "14_Markdown.R",
+    "properties" : {
+        "cursorPosition" : "0,165",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
